@@ -4,7 +4,7 @@
 
 body
 {
-  background: url("img/foto.jpg") no-repeat;
+  background: url("img/foto.jpg");
   background-size: cover;
 }
  .container
